@@ -474,6 +474,7 @@ img {
 
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 .adress-footer {
   max-width: 231px;
@@ -528,7 +529,6 @@ img {
 }
 
 .social-footer {
-  padding-top: 12px;
 }
 .social-footer .list {
   display: flex;
