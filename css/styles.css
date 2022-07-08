@@ -477,7 +477,7 @@ img {
   align-items: baseline;
 }
 .adress-footer {
-  max-width: 231px;
+  width: 231px;
   margin-right: 70px;
 }
 
