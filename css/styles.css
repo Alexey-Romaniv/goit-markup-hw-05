@@ -528,8 +528,6 @@ img {
   margin-bottom: 20px;
 }
 
-.social-footer {
-}
 .social-footer .list {
   display: flex;
 }
@@ -658,7 +656,7 @@ img {
   color: var(--main-white-color);
   background-color: var(--overlay-bgcolor);
 
-  transform: translateY(100%);
+  transform: translateY(101%);
 
   transition: transform var(--time-animation) var(--cubic-bezier);
 }
